@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzabostanci&label=Profile%20views&color=0e75b6&style=flat" alt="beyzabostanci" /> </p>
 
+- 🔭 I’m currently working on **my portfolio and trying to learn new stuff!**
+
 - 🌱 I’m currently learning **programming with Python**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/beyzabostanci](https://www.behance.net/beyzabostanci)
