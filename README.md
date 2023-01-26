@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my portfolio and trying to learn new stuff!**
 
-- 🌱 I’m currently learning **programming with Python, digital marketing and webflow!**
+- 🌱 I’m currently learning **programming with Python, digital marketing and Webflow!**
 
-- 👨‍💻 My projects are available at [https://www.behance.net/beyzabostanci](https://www.behance.net/beyzabostanci)
+- 👨‍💻 My projects are available at [https://www.behance.net/beyzabostanci](https://www.behance.net/beyzabostanci) and I keep uploading!
 
 - 📫 You can reach out to me via **https://www.linkedin.com/in/beyzabostanci/**
 
